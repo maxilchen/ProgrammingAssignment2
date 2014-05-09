@@ -1,5 +1,5 @@
 ## The functions here calculate and cache the inverse matrix of a matrix, if have not been calculated before
-## f
+## 
 
 ## make a class-like variable containing all the data
 
